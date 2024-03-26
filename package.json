@@ -4,7 +4,9 @@
   "version": "1.0.0",
   "description": "An HTTP server that makes single-page applications visible to search engines",
   "main": "index.mjs",
-  "scripts": {},
+  "scripts": {
+    "tests": "node --loader esm-module-alias/loader tests/index.mjs"
+  },
   "aliases": {
     "@double-facade": "index.mjs"
   },
