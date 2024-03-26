@@ -5,6 +5,9 @@
   "description": "An HTTP server that makes single-page applications visible to search engines",
   "main": "index.mjs",
   "scripts": {},
+  "aliases": {
+    "@double-facade": "index.mjs"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fredericomba/double-facade.git"
@@ -20,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/fredericomba/double-facade/issues"
   },
-  "homepage": "https://github.com/fredericomba/double-facade#readme"
+  "homepage": "https://github.com/fredericomba/double-facade#readme",
+  "dependencies": {
+    "esm-module-alias": "^2.1.0"
+  }
 }
