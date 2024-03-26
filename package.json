@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "double-facade",
+  "version": "1.0.0",
+  "description": "An HTTP server that makes single-page applications visible to search engines",
+  "main": "index.mjs",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredericomba/double-facade.git"
+  },
+  "keywords": [
+    "Single-Page Application",
+    "SPA",
+    "Search Engine Optimization",
+    "SEO"
+  ],
+  "author": "Frederico Alves",
+  "license": "SEE LICENSE IN \"LICENSE\"",
+  "bugs": {
+    "url": "https://github.com/fredericomba/double-facade/issues"
+  },
+  "homepage": "https://github.com/fredericomba/double-facade#readme"
+}
