@@ -1,5 +1,9 @@
 # DOUBLE FACADE
 
+## AUTHORS
+
+Frederico Alves ([email](mailto:fredericomba.freelancer@gmail.com))
+
 ## INTRODUCTION
 
 [Single-Page Applications](https://developer.mozilla.org/en-US/docs/Glossary/SPA) (SPAs), although having multiple advantages when it comes to developing them, maintaining them and also deploying them, suffer from the common problem of making the website appear as empty and void of content for search engines. This setback is so unnacceptable that it is often the reason for not going forward with a project or then opting for a heavyweight approach, such as server-side rendering.
